@@ -1,5 +1,5 @@
 {% set name = "testflows.asserts" %}
-{% set version = "6.5.221019.1152644" %}
+{% set version = "6.5.230616.1120952" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/testflows.asserts-{{ version }}.tar.gz
-  sha256: 10f61efa9f28cf8c77824de2300a2e41b551b95860cb62cb9ac3281cf5a75b8f
+  sha256: b0b93659c12e30d139f84c76a750a33a8e742cdb08b7d02fe5996169893e1864
 
 build:
   number: 0
